@@ -4,14 +4,14 @@
 ### Some libs will be ports! (such as json.lua)
 
 ### Games
-- [pong](./Pong-Avg4k/)
-- [Cookie Clicker](./CookieClicker-Avg4k/)
+- [Pong](https://github.com/GuglioIsStupid/Avg4k-Mods/blob/main/Pong-Avg4k)
+- [Cookie Clicker](https://github.com/GuglioIsStupid/Avg4k-Mods/blob/main/CookieClicker-Avg4k)
 
 ### Libraries
-- [AvgInput](./libraries/AvgInput.lua)
+- [AvgInput](https://github.com/GuglioIsStupid/Avg4k-Mods/blob/main/Libraries/AvgInput.lua)
 
 ### Library Ports
-- [json.lua](./libraries/json.lua)
+- [json.lua](https://github.com/GuglioIsStupid/Avg4k-Mods/blob/main/Libraries/json.lua)
 
 ### Code Snippets
-- [snippets.lua](./libraries/snippets.lua)
+- [snippets.lua](https://github.com/GuglioIsStupid/Avg4k-Mods/blob/main/Libraries/snippets.lua)
