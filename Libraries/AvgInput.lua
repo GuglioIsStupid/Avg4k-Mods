@@ -1,3 +1,12 @@
+--[[
+AvgInput.lua
+
+- Library made by GuglioIsStupid
+- This library is used to make input easier to use in Average4k
+
+- Available for use for anything, just don't remove credits/claim it as your own
+--]]
+
 input = {}
 
 input.keyList = {}
@@ -68,5 +77,5 @@ function input.new(config)
         return input.keys[name].down
     end
 
-    consolePrint("input loaded")
+    consolePrint("AvgInput loaded! - Made by: GuglioIsStupid")
 end
